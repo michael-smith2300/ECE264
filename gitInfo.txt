@@ -5,3 +5,7 @@ Passwd: JJ
 Username: smit2300
 Email: smithmick14@gmail.com
 Passwd: JJ
+
+Important note: To add a project since by default we add to the smithmick14@gmail.com account. When
+you first clone the project you have to do git remote add origin git@github.com-purdue_email instead
+of the link they provide, since that's what I included in the ssh config file for the other key.
